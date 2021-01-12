@@ -1,0 +1,4 @@
+Um TAD pode ser visto como um modelo que encapsula dados e um conjunto
+de procedimentos(funções) que atuam com exclusividade sobre os dados
+encapsulados. Sua característica essencial é a separação entre a
+definição conceitual e a implementação.

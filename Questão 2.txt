@@ -1,0 +1,2 @@
+A reutilização em diferentes programas, As mudanças na implementação
+do TAD não afetam o código fonte dos programas que o utilizam.

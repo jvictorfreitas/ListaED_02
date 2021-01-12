@@ -1,0 +1,3 @@
+Não utilizaria o algoritmo B ao invés do A, por ser uma exponenciação
+que geralmente ocorre quando se usa uma solução de força bruta, e isso
+não é util do ponto de vista prático, apenas ultilizaria nos menores casos.

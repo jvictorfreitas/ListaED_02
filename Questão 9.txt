@@ -1,0 +1,2 @@
+Olha-se para o pior caso possível de tempo de execução por ser mais simples de analisar
+e é crucial nas aplicações mais exigentes.

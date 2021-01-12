@@ -1,0 +1,2 @@
+Função A leva menos tempo de execução do que B:
+{N|N pertence aos naturais, sendo 13 > N > 37}
